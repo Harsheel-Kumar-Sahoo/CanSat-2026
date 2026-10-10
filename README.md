@@ -128,8 +128,10 @@ If the DHT22 read fails, the temperature value is sent as `-999`.
 
 **The Electrophiles**
 
-- Name: role
-- Name: role
+- Harsheel Kumar Sahoo
+- Arya Revadiwala
+- Neha Tilwani
+- Ashmita Dash
 
 ## License
 
